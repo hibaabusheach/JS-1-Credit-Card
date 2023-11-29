@@ -1,0 +1,87 @@
+    <!-- <div class="container">
+        <div class="credit-card">
+            <h1 class="heading">Let's Make Payment</h1>
+
+            <p class="toStartSub">To start your subscription, input your card details to make payment. 
+                You will be redirected to your banks authorization page . 
+            </p>
+
+            <form action="mailto:bisan.tours@hotmail.com" method="post">
+                <div class="form_control">
+                    <label for="name">Cardholder's Name</label>
+                    <input type="text" id="name" name="name" placeholder="PAULINA CHIMAROKE" required>
+                </div>
+
+                <div class="form_control">
+                    <label for="number">Card Number</label>
+                    <div class="form_input">
+                        <img class="icon" src="./images/mastercard-1.png" alt="">
+                        <input type="text" id="number" class="input_mastercard" name="cardNumber" placeholder="9870 3456 7890 6473" required>
+                    </div>
+                </div>
+
+                <div class="form_control_one">
+                    <div class="form_control_two">
+                        <label for="date">Expiry</label>
+                        <input type="text" id="date" class="input_box" name="expiry" placeholder="03 / 25" required>
+                    </div>
+
+                    <div class="form_control_two">
+                        <label for="num">CVC</label>
+                        <input type="text" id="num" class="input_box" name="cvc" placeholder="654" required>
+                    </div>
+                </div>
+
+                <div class="form_control">
+                    <label for="code_">Discount Code</label>
+                    <input type="text" id="code_" name="discountCode" placeholder="CHIKAMSO-20-OFF" required>
+                    <a href="#">Apply</a>
+                </div>
+
+                <button type="button" disabled>Pay</button>
+            </form>
+        </div>
+
+        <div class="card-paying">
+            <div class="blob"></div>
+            <p  class="p_paying">You're paying,</p>
+            <h2>$450.00</h2>
+
+            <div class="flex">
+                <p class="left_p">Custom Gucci Shoes</p>
+                
+                <span class="right_s">$ 400.00</span>
+            </div>
+
+            <p class="p_sizing">Size: m  Color: Red</p>
+
+            <div class="flex">
+                <p class="left_p">Nivea Cream 400ml</p>
+                
+                <span class="right_s">$ 50.00</span>
+            </div>
+            
+            <p class="p_sizing">Size: m  Color: Blue</p>
+
+            <div class="flex">
+                <p class="left_p discount">Discounts & Offers</p>
+                
+                <span class="right_s">$ 0.00</span>
+            </div>
+
+            <hr>
+
+            <div class="flex">
+                <p class="left_p tax_total">Tax</p>
+                
+                <span class="right_s">$ 00.00</span>
+            </div>
+
+            <div class="flex">
+                <p class="left_p tax_total">Total</p>
+                
+                <span class="right_s">$ 450.00</span>
+            </div>
+        </div>
+    </div> -->
+
